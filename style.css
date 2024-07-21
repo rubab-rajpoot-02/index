@@ -1,0 +1,289 @@
+body{
+    background-image: url(imge.webp);
+    background-size: cover;
+}
+.main{
+    height: 450px;
+    width: 700px;
+    background-color:rgb(77, 166, 201);
+    border: 2px;
+    margin-top: 40px;
+    margin-left: 420px;
+    rotate: 165deg;
+    position:absolute;
+}
+.main p{
+    color: white;
+    font-size: 15px;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 15px;
+    left: 650px;
+}
+.main p input{
+    border: solid white;
+    color: antiquewhite;
+    rotate: 180deg;
+    position: absolute;
+    width: 110px;
+    bottom: 0.5px;
+    left: 45px;
+}
+.main .h{
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 40px;
+    width: 680px;
+    right: 40px;
+}
+.main .hh{
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 73px;
+    width: 680px;
+    right: 60px;
+}
+.main .hhh{
+    color: yellow;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 106px;
+    width: 680;
+    right: 40px;
+    font-size: 35px;
+}
+.main .hhhh{
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 160px;
+    left: 505px;
+}
+div input::placeholder{
+    color: rgb(77, 166, 201);
+    background-color: aliceblue;
+    position: absolute;
+}
+div :nth-child(6){
+    rotate: 180deg;
+    position: absolute;
+    bottom: 210px;
+    left: 490px;
+    padding: 10px;
+    border:2px solid white;
+    border-radius: 15px;
+}
+div :nth-child(7){
+    rotate: 180deg;
+    position: absolute;
+    bottom: 260px;
+    left: 490px;
+    padding: 10px;
+    border:2px solid white;
+    border-radius: 15px;
+}
+div :nth-child(8){
+    rotate: 180deg;
+    position: absolute;
+    bottom: 310px;
+    left: 490px;
+    padding: 10px;
+    border:2px solid white;
+    border-radius: 15px;
+}
+
+div :nth-child(9){
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 340px;
+    left: 525px;
+}
+div :nth-child(10){
+    color: yellow;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 360px;
+    left: 505px;
+    font-size: 20px;
+}
+div :nth-child(11){
+    color: yellow;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 390px;
+    left: 550px;
+    font-size: 20px;
+}
+div :nth-child(12){
+    border-right: 3px dotted black;
+    position: absolute;
+    height: 450px;
+    left: 460px;
+    rotate: 180deg;
+    top: -16px;
+}
+div :nth-child(13){
+    color: white;
+    font-size: 15px;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 15px;
+    left: 400px;
+}
+div :nth-child(14){
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 40px;
+    width: 680px;
+    right: 280px;
+}
+div :nth-child(15){
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 73px;
+    width: 680px;
+    right: 300px;
+}
+div :nth-child(16){
+    color: yellow;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 106px;
+    width: 680;
+    right: 280px;
+    font-size: 35px;
+}
+div :nth-child(17){
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 160px;
+    left: 270px;
+}
+div :nth-child(18){
+    rotate: 180deg;
+    position: absolute;
+    bottom: 210px;
+    left: 250px;
+    padding: 10px;
+    border:2px solid white;
+    border-radius: 15px;
+}
+div :nth-child(19){
+    rotate: 180deg;
+    position: absolute;
+    bottom: 260px;
+    left: 250px;
+    padding: 10px;
+    border:2px solid white;
+    border-radius: 15px;
+}
+div :nth-child(20){
+    rotate: 180deg;
+    position: absolute;
+    bottom: 310px;
+    left: 250px;
+    padding: 10px;
+    border:2px solid white;
+    border-radius: 15px;
+}
+div :nth-child(21){
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 340px;
+    left: 280px;
+}
+div :nth-child(22){
+    color: yellow;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 360px;
+    left: 265px;
+    font-size: 20px;
+}
+div :nth-child(23){
+    color: yellow;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 390px;
+    left: 310px;
+    font-size: 20px;
+}
+div :nth-child(24){
+    border-right: 3px dotted black;
+    position: absolute;
+    height: 450px;
+    left: 220px;
+    rotate: 180deg;
+    top: -16px;
+}
+div :nth-child(25){
+    position: absolute;
+    height: 200px;
+    left:13px;
+    rotate: 180deg;
+   top: 200px;
+}
+div :nth-child(26){
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 230px;
+    left: 30px;
+    font-size: 13.5px;
+}
+div :nth-child(27){
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 240px;
+    left: 13px;
+}
+div :nth-child(28){
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 295px;
+    left: 29px;
+    font-size: 12px;
+}
+div :nth-child(29){
+    color: white;
+    rotate: 180deg;
+    position: absolute;
+    bottom: 310px;
+    left: 12px;
+    font-size: 12px;
+}
+div :nth-child(30){
+    rotate: 180deg;
+    position: absolute;
+    bottom: 370px;
+    left: 160px;
+    height: 20px;
+}
+ div .icons{
+    rotate: 180deg;
+    position: absolute;
+    bottom: 360px;
+    left: 25px;
+    color: aliceblue;
+}
+.text{
+    padding-top: 580px;
+    padding-left: 560px;
+    padding-right: 400px;
+}
+.text2{
+    background-color: rgb(236, 236, 9);
+    border-radius: 12px;
+}
+.text3{
+    font-size: 90px;
+}
